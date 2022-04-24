@@ -7,7 +7,8 @@ This project is developed for CMP619 Blockchain and Cryptocurrencies course in H
 Main Sequence 
 
 
-![Screen Shot 2022-04-23 at 15 59 37](https://user-images.githubusercontent.com/28945680/164909073-f8d2b399-96a9-4e05-8d56-affe479cf083.png)
+![Screen Shot 2022-04-24 at 11 55 26](https://user-images.githubusercontent.com/28945680/164968600-cb330b67-b457-4248-8e63-6d20ec8844be.png)
+
 
 
 Demo Video
